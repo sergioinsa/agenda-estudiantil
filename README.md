@@ -2,7 +2,7 @@
 
 ## Tu Compañero Virtual para el Éxito Académico
 
-**Agenda Estudiantil** es una plataforma pensada especialmente para vos, que tenés ganas de aprender. ¿Qué onda con nosotros? Dejame contarte nuestras funcionalidades más piolas:
+**[Agenda Estudiantil](https://sergioinsa.github.io/agenda-estudiantil/)** es una plataforma pensada especialmente para vos, que tenés ganas de aprender. ¿Qué onda con nosotros? Dejame contarte nuestras funcionalidades más piolas:
 
 ### 1. Resúmenes Automáticos
 - La inteligencia artificial (IA) se pone las pilas y analiza tus materiales de estudio.
@@ -25,7 +25,7 @@
 - Armá tu agenda de estudio como un campeón.
 - No te pierdas ni una fecha importante gracias a las notificaciones.
 
-¡Dale, explorá, aprendé y volá alto con **Agenda Estudiantil**! 📚🚀
+¡Dale, explorá, aprendé y volá alto con **[Agenda Estudiantil!](https://sergioinsa.github.io/agenda-estudiantil/)** 📚🚀
 
 <br>
 <br>
@@ -49,4 +49,4 @@ La redacción de contenidos está creada 95% con IA, solo intervení muy poco. C
 3. **Función Destacada**:
    - Explicar cuál es la función destacada de **Agenda Estudiantil**.
 
-La página está hecha con [Bootstrap](https://getbootstrap.com/) y hosteada en [github pages](https://pages.github.com/)
+La página está hecha en [Bootstrap](https://getbootstrap.com/) y hosteada en [github pages](https://pages.github.com/)
