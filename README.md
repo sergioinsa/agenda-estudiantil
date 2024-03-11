@@ -2,31 +2,51 @@
 
 ## Tu Compañero Virtual para el Éxito Académico
 
-En **Agenda Estudiantil**, hemos creado una plataforma pensada especialmente para ti, estudiante ávido de conocimiento. ¿Qué puedes esperar de nosotros? Permítenos presentarte nuestras funcionalidades destacadas:
+**Agenda Estudiantil** es una plataforma pensada especialmente para vos, que tenés ganas de aprender. ¿Qué onda con nosotros? Dejame contarte nuestras funcionalidades más piolas:
 
 ### 1. Resúmenes Automáticos
-- La inteligencia artificial (IA) analiza tus materiales de estudio.
-- Genera resúmenes concisos para que puedas acceder rápidamente a la esencia de cualquier contenido.
+- La inteligencia artificial (IA) se pone las pilas y analiza tus materiales de estudio.
+- Te tira resúmenes cortitos para que vayas al grano y no te hagas la cabeza.
 
 ### 2. Espacios de Estudio Grupal
-- Crea grupos virtuales con tus compañeros.
-- Comparte documentos, anotaciones y realiza videoconferencias colaborativas.
+- Armá grupos virtuales con tus compañeros.
+- Compartí documentos, anotaciones y mandale videollamadas.
 
 ### 3. Personalización a Tu Medida
-- Elige tu tema favorito para la interfaz.
-- Organiza tus materiales en carpetas personalizadas.
-- Configura recordatorios de estudio para mantenerte al día.
+- Elegí el tema que más te cope para la interfaz.
+- Organizá tus apuntes en carpetas personalizadas.
+- Configurá recordatorios para no colgarla con los estudios.
 
 ### 4. Recomendaciones Inteligentes
-- Basadas en tus intereses y actividad.
-- Descubre recursos relevantes que te ayudarán a crecer académicamente.
+- Basadas en tus gustos y movidas.
+- Te tiramos recursos copados para que sigas creciendo.
 
 ### 5. Calendario de Estudio
-- Planifica tus sesiones de estudio de manera eficiente.
-- Recibe notificaciones para no perder ninguna cita importante.
+- Armá tu agenda de estudio como un campeón.
+- No te pierdas ni una fecha importante gracias a las notificaciones.
 
-¡Explora, aprende y crece con nosotros en **Agenda Estudiantil**! 📚🚀
+¡Dale, explorá, aprendé y volá alto con **Agenda Estudiantil**! 📚🚀
 
----
+<br>
+<br>
 
-Si tienes alguna pregunta o necesitas más detalles, no dudes en consultarnos. ¡Estamos aquí para apoyarte en tu camino educativo! 😊
+# 🛠️Funcionalidad destacada 
+Lo mejor de **Agenda Estudiantil** es su función de **Resúmenes Automáticos**. La inteligencia artificial (IA) analiza tus materiales de estudio y genera resúmenes concisos para que puedas acceder rápidamente a la esencia de cualquier contenido. ¡Es como tener un asistente personal para tus apuntes! 📚✨
+
+
+
+## Mi Proceso
+
+La redacción de contenidos está creada con IA. Como instrucciones del promt use lo siguiente:
+
+1. **Presentación de Agenda Estudiantil**:
+   - Redactar una breve presentación para **Agenda Estudiantil**.
+   - Incluir las funcionalidades destacadas y un llamado a la acción.
+
+2. **Estilo Rioplatense de Buenos Aires**:
+   - Adaptar la presentación al estilo rioplatense de Buenos Aires.
+
+3. **Función Destacada**:
+   - Explicar cuál es la función destacada de **Agenda Estudiantil**.
+
+Para la web usé [Bootstrap](https://getbootstrap.com/) y [github pages](https://pages.github.com/)
