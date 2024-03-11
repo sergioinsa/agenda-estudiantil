@@ -37,7 +37,7 @@ Lo mejor de **Agenda Estudiantil** es su función de **Resúmenes Automáticos**
 
 ## Mi Proceso
 
-La redacción de contenidos está creada con IA. Como instrucciones del promt use lo siguiente:
+La redacción de contenidos está creada 95% con IA, solo intervení muy poco. Como instrucciones del promt use lo siguiente:
 
 1. **Presentación de Agenda Estudiantil**:
    - Redactar una breve presentación para **Agenda Estudiantil**.
@@ -49,4 +49,4 @@ La redacción de contenidos está creada con IA. Como instrucciones del promt us
 3. **Función Destacada**:
    - Explicar cuál es la función destacada de **Agenda Estudiantil**.
 
-Para la web usé [Bootstrap](https://getbootstrap.com/) y [github pages](https://pages.github.com/)
+La página está hecha con [Bootstrap](https://getbootstrap.com/) y hosteada en [github pages](https://pages.github.com/)
